@@ -6,4 +6,4 @@ ELT attempts to mimic learning of intergroup empathic norms through observation.
 
 General outline of ELT:
 
-![ELT](ELT_GitHub.png)
+![ELT](ELT_Outline.png)
